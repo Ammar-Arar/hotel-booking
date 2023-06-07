@@ -5,10 +5,6 @@
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
 }
-.project{
-    display: flex;
-    flex-direction: column;
-}
 header {
     display: flex;
     flex-direction: column;
